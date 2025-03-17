@@ -1,0 +1,52 @@
+.servce{
+    padding: 60px 50px;
+    background-color: rgba(0, 0, 255, 0.284);
+}
+.o-s{
+display: flex;
+align-items: center;
+}
+.o-s h2{
+    display: inline-block;
+    font-size: 3.5vw;
+    width: 34%;
+}
+.o-s hr{
+    width: 70%;
+}
+.servce h3{
+    color: blue;
+    font-size: 2vw;
+}
+.box-s{
+display: flex;
+}
+.big-b{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: space-around;
+}
+.c-s-b{
+    margin-left: -410px;
+    margin-top: 160px;
+    align-items: center;
+    h2{
+        margin-top: -120px;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        
+    }
+}
+.B-S-S{
+    z-index: 20;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 360px;
+    background-color: white;
+    border-radius: 50%;
+}
+#More-Services{
+    z-index: 30;
+    margin-left: 30px;
+}
