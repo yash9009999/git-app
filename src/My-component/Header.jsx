@@ -12,7 +12,7 @@ function Header() {
             </div>
             <nav>
                 <ul className={menuOpen ? "turn" : ""}>
-                    <li><a href="#">Home</a></li>
+                    <li><a href="https://www.google.co.in/?client=safari&channel=mac_bm">Home</a></li>
                     <li><a href="#">About us</a></li>
                     <li><a href="#">Services</a></li>
                     <li><a href="#">FAQ'S</a></li>
